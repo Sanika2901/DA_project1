@@ -3,3 +3,4 @@ Created a dashboard to evaluate marketing ROI(67conversion rates, and customer e
 Analyzed multi-channel campaign performance using DAX and visual KPIs for data-driven targeting strategies.
 Improved strategic planning by identifying high-performing campaigns and underperforming segments
 Tools Used: Power BI ,DAX, Power Query
+
