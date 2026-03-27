@@ -32,7 +32,7 @@ o	Campaign_Name between Campaign_Details and Campaign_Performance.
 o	Region between Region_Performance and Campaign_Performance.
 •	Ensured proper filtering flow and efficient query execution.
 
-# 📌 Note: All relationships use single-directional filtering to optimize performance and avoid ambiguity in DAX measures.
+ 📌 Note: All relationships use single-directional filtering to optimize performance and avoid ambiguity in DAX measures.
 ________________________________________________________________________________________________________________________
 
 ## 🧠 DAX Measures
